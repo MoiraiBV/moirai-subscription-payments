@@ -6,8 +6,8 @@ import { PropsWithChildren, Suspense } from 'react';
 import { getURL } from '@/utils/helpers';
 import 'styles/main.css';
 
-const title = 'Next.js Subscription Starter';
-const description = 'Brought to you by Vercel, Stripe, and Supabase.';
+const title = 'Moirai Signup and Subscriptions';
+const description = 'Copyright ©2024 - Moirai B.V. - All Rights Reserved.';
 
 export const metadata: Metadata = {
   metadataBase: new URL(getURL()),
